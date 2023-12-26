@@ -4,3 +4,9 @@ ip2domain: IP 反查域名，利用go重构了一下，爬虫爬的是 138.com�
 
 FofaEX：https://github.com/10cks/fofaEX
 
+独立运行命令：
+
+```
+.\main.exe -f .\ip.txt -o .\result.json
+```
+
